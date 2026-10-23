@@ -34,7 +34,6 @@ Results go to `output/`. `expected_output/` holds the paper's tables and figures
 | Child age profile | `figures/child_age_profile.png` | `08_child_age_profile.py` |
 | Depreciation figure | `figures/dn_compounding.png` | `16_decompose_dn.py` |
 
-Two tables in the paper (`tab:data_moments`, `tab:misclass`) are typed by hand and not produced by code.
 
 ## Seeds
 Only the bootstrap (`04_bootstrap_moments.py`) is random; its seed is 12345.
